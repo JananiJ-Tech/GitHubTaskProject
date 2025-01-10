@@ -17,6 +17,20 @@ public class GitHubProjectSample {
 
 	}
 	
+	private void method4() {
+		System.out.println("Method4");
+
+	}
+	
+	private void method5() {
+		System.out.println("Method5");
+
+	}
+	
+	private void method6() {
+		System.out.println("Method6");
+	}
+	
 	private void method7() {
 		System.out.println("Method7");
 
@@ -29,7 +43,6 @@ public class GitHubProjectSample {
 	
 	private void method9() {
 		System.out.println("Method9");
-
 	}
 	
 	public static void main(String[] args) {
